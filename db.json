@@ -1,0 +1,15 @@
+{
+"profile":
+[
+ {"RollNo":"1","Name":"Aarati","Stream":"EXTC","City":"Tiosa"},
+ {"RollNo":"2","Name":"Bittu","Stream":"EXTC","City":"Tiosa"},
+ {"RollNo":"3","Name":"Mansi","Stream":"EXTC","City":"Akola"},
+ {"RollNo":"4","Name":"Pranil","Stream":"CSE","City":"Akola"}, 
+ {"RollNo":"5","Name":"Gauri","Stream":"ELPO","City":"Khamgaon"},
+ {"RollNo":"6","Name":"Shakshi","Stream":"ELPO","City":"Khamgaon"},
+ {"RollNo":"7","Name":"Archi","Stream":"EXTC","City":"Khamgaon"}, 
+ {"RollNo":"8","Name":"Yash","Stream":"EXTC","City":"Yavatmal"},
+ {"RollNo":"9","Name":"Vinayak","Stream":"EXTC","City":"Yavatmal"},
+ {"RollNo":"10","Name":"Akshay","Stream":"MECH","City":"Yavatmal"}
+]
+}
